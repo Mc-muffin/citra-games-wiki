@@ -1,0 +1,14 @@
+title = "Shantae and the Pirate's Curse"
+description = "Is the third game on the Shantae game series, is a platform game published by WayForward Technologies and Rising Star wich follows the adventures of the eponymous half-genie Shantae as she once again has to save Sequin Land from a new foe, the Pirate Master, with help from her nemesis Risky Boots."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000019D900"
+region = "eur"
+release_date = "2015-02-05"
+
+[[releases]]
+title = "000400000019E600"
+region = "usa"
+release_date = "2014-10-23"
