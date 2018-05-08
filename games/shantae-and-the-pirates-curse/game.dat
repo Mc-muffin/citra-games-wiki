@@ -13,3 +13,8 @@ release_date = "2016-10-18"
 title = "000400000019D900"
 region = "eur"
 release_date = "2016-10-21"
+
+[[releases]]
+title = "0004000000181100"
+region = "jpn"
+release_date = "2015-11-19"
